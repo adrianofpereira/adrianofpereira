@@ -48,7 +48,7 @@ platforms (Azure)
 ⭐PySpark (Advanced)
  <br/>
 ⭐C#(Advanced)
- <br/>
+
  
 I am also an instructor at Udemy, I will leave below the link to the courses I teach on the platform:
 
