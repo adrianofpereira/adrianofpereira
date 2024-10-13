@@ -1,7 +1,7 @@
 ## Hello, I'm Adriano, Business Intelligence Specialist, Welcome to my Profile!
 
-Pessoal, além de trabalhar na área de BI e Data Engineering, vou deixar abaixo um resumo dos meus skills.
-
+Besides working in the BI and Data Engineering area, I will leave a summary of my skills below:
+<br/>
 <a id="Introdução"></a>
 ## 🧩 Professional Summary: 
 <br/>
@@ -48,14 +48,13 @@ platforms (Azure)
 ⭐PySpark (Advanced)
  <br/>
 ⭐C#(Advanced)
-
-
+ <br/>
 I am also an instructor at Udemy, I will leave below the link to the courses I teach on the platform:
 
 [Power BI do Zero ao Dashboard:](https://www.udemy.com/course/power-bi-do-zero-ao-dashboard/?referralCode=853E0BD6B568BA67A404)
 
 [Power BI Performance - Otimizando Dashboards](https://www.udemy.com/course/power-bi-performance-otimizando-dashboards/?referralCode=CAFAA0371843F327C603)
-
+ <br/>
 I help with tutorials on Medium with tips to make your life easier with codes:
 
 [Medium - Adriano](https://medium.com/@nanojau)
