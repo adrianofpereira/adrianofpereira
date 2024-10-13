@@ -51,15 +51,14 @@ platforms (Azure)
 
  <a id="Creditos"></a>
 ## 🏆 Power BI Courses
-
 <br />
+
 I am also an instructor at Udemy, I will leave below the link to the courses I teach on the platform:
 
 [Power BI do Zero ao Dashboard:](https://www.udemy.com/course/power-bi-do-zero-ao-dashboard/?referralCode=853E0BD6B568BA67A404)
 
 [Power BI Performance - Otimizando Dashboards](https://www.udemy.com/course/power-bi-performance-otimizando-dashboards/?referralCode=CAFAA0371843F327C603)
- <br/>
- 
+
 I help with tutorials on Medium with tips to make your life easier with codes:
 
 [Medium - Adriano](https://medium.com/@nanojau)
