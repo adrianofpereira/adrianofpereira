@@ -31,15 +31,23 @@ platforms (Azure)
 ## 🚀 Top Skills 
 
  <br/>
-### ⠀⠀⠀⠀[⭐ Microsoft SQL Server Integration ]
-Services (SSIS) (Advanced).
-• Microsoft SQL Server Analysis 
-Services (SSAS) (Advanced).
-• Microsoft Power BI ((Advanced), 
-• Python (Advanced)
-• Databricks(Advanced)
-• PySpark (Advanced)
-• C#(Advanced)
+⭐ Microsoft SQL Server Integration
+
+⭐Services (SSIS) (Advanced).
+
+⭐Microsoft SQL Server Analysis 
+
+⭐Services (SSAS) (Advanced).
+
+⭐Microsoft Power BI ((Advanced), 
+
+⭐Python (Advanced)
+
+⭐Databricks(Advanced)
+
+⭐PySpark (Advanced)
+
+⭐C#(Advanced)
 
 
 I am also an instructor at Udemy, I will leave below the link to the courses I teach on the platform:
