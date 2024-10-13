@@ -1,4 +1,4 @@
-## Olá eu sou Adriano, Business Intelligence Specialist, sejma bem vindos ao meu perfil!
+## Hello, I'm Adriano, Business Intelligence Specialist, Welcome to my Profile!
 
 Pessoal, além de trabalhar na área de BI e Data Engineering, vou deixar abaixo um resumo dos meus skills.
 
@@ -26,16 +26,24 @@ platforms (Azure)
 • Implement CI/CD pipelines that enables automated code deploymen
 
 Top Skills:
+Microsoft SQL Server Integration 
+Services (SSIS) (Advanced).
+• Microsoft SQL Server Analysis 
+Services (SSAS) (Advanced).
+• Microsoft Power BI ((Advanced), 
+• Python (Advanced)
+• Databricks(Advanced)
+• PySpark (Advanced)
+• C#(Advanced)
 
 
-
-Também sou instrutor na Udemy, vou deixar abaixo o link dos cursos que ministro na plataforma:
+I am also an instructor at Udemy, I will leave below the link to the courses I teach on the platform:
 
 [Power BI do Zero ao Dashboard:](https://www.udemy.com/course/power-bi-do-zero-ao-dashboard/?referralCode=853E0BD6B568BA67A404)
 
 [Power BI Performance - Otimizando Dashboards](https://www.udemy.com/course/power-bi-performance-otimizando-dashboards/?referralCode=CAFAA0371843F327C603)
 
-Ajudo com tutoriais no Medium com dicas para facilitar sua vida com códigos:
+I help with tutorials on Medium with tips to make your life easier with codes:
 
 [Medium - Adriano](https://medium.com/@nanojau)
 
@@ -49,6 +57,7 @@ Ajudo com tutoriais no Medium com dicas para facilitar sua vida com códigos:
   <img align="center" alt="Rafa-Mysql" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
   <img align="center" alt="Rafa-Sqlite" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlite/sqlite-original.svg">
   <img align="center" alt="Rafa-PowerBI" height="30" width="40" src="https://github.com/microsoft/PowerBI-Icons/blob/main/PNG/Power-BI.png">
+  <img align="center" alt="Rafa-PowerAutomate" height="30" width="40" src="https://github.com/microsoft/PowerBI-Icons/blob/main/PNG/Power-Automate-Colored.png">
   
 </div>
   
