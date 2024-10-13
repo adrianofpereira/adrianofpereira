@@ -58,7 +58,8 @@ I help with tutorials on Medium with tips to make your life easier with codes:
   <img align="center" alt="Rafa-Sqlite" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlite/sqlite-original.svg">
   <img align="center" alt="Rafa-PowerBI" height="30" width="40" src="https://github.com/microsoft/PowerBI-Icons/blob/main/PNG/Power-BI.png">
   <img align="center" alt="Rafa-PowerAutomate" height="30" width="40" src="https://github.com/microsoft/PowerBI-Icons/blob/main/PNG/Power-Automate-Colored.png">
-  <img align="center" alt="Rafa-PowerAutomate" height="30" width="40" src="https://spark.apache.org/images/spark-logo-back.png">
+  <img align="center" alt="Rafa-Spark" height="30" width="40" src="https://spark.apache.org/images/spark-logo-back.png">
+  <img align="center" alt="Rafa-Tableau" height="30" width="40" src="https://spark.apache.org/images/tableau-logo-tableau-software.png">
   
 </div>
   
