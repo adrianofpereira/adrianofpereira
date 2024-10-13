@@ -21,6 +21,6 @@ Pessoal, além de trabalhar na área de BI e Data Engineering, também sou instr
   ##
  
 <div> 
-  <a href="www.linkedin.com/in/adriano-firmino-pereira-41272a30" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="[www.linkedin.com/in/adriano-firmino-pereira-41272a30](https://www.linkedin.com/in/adriano-firmino-pereira-41272a30/)" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   
 </div>
