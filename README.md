@@ -1,6 +1,23 @@
 ## Olá eu sou Adriano, Business Intelligence Specialist, sejma bem vindos ao meu perfil!
 
-Pessoal, além de trabalhar na área de BI e Data Engineering, também sou instrutor na Udemy, vou deixar abaixo o link dos cursos que ministro na plataforma:
+Pessoal, além de trabalhar na área de BI e Data Engineering, vou deixar abaixo um resumo dos meus skills.
+
+Professional Summary
+• 6+ years of experience as a ETL/Data Engineering using SSAS/SQL
+• Udemy Power BI Instructor
+• Microsoft Azure experience including Databricks, Python, Spark, SparkSQL
+• Experience in Business Intelligence building Data Products that are used by various 
+teams.
+• +5 years of experience as a Architect, design, and develop end-to-end business 
+intelligence solutions using Power BI.
+• Strong SQL skills for data retrieval and manipulation.
+• Experience with data warehousing concepts, ETL processes, and cloud-based data 
+platforms (Azure)
+• Experience with Python
+• Implement CI/CD pipelines that enables automated code deploymen
+
+
+Também sou instrutor na Udemy, vou deixar abaixo o link dos cursos que ministro na plataforma:
 
 [Power BI do Zero ao Dashboard:](https://www.udemy.com/course/power-bi-do-zero-ao-dashboard/?referralCode=853E0BD6B568BA67A404)
 
