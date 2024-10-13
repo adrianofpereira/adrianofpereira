@@ -33,20 +33,20 @@ platforms (Azure)
  <br/>
 ⭐ Microsoft SQL Server Integration
  <br/>
-⭐Services (SSIS) (Advanced).
-
+⭐Services (SSIS) (Advanced)
+ <br/>
 ⭐Microsoft SQL Server Analysis 
-
-⭐Services (SSAS) (Advanced).
-
-⭐Microsoft Power BI ((Advanced), 
-
+ <br/>
+⭐Services (SSAS) (Advanced)
+ <br/>
+⭐Microsoft Power BI ((Advanced)
+ <br/>
 ⭐Python (Advanced)
-
+ <br/>
 ⭐Databricks(Advanced)
-
+ <br/>
 ⭐PySpark (Advanced)
-
+ <br/>
 ⭐C#(Advanced)
 
 
