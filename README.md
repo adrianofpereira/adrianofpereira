@@ -48,7 +48,7 @@ Ajudo com tutoriais no Medium com dicas para facilitar sua vida com códigos:
   <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
   <img align="center" alt="Rafa-Mysql" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
   <img align="center" alt="Rafa-Sqlite" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlite/sqlite-original.svg">
-  <img align="center" alt="Rafa-PowerBI" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/PowerBI/PowerBI-original.svg">
+  <img align="center" alt="Rafa-PowerBI" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/Power-BI/Power-BI.png">
 </div>
   
   ##
