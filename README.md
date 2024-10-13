@@ -64,10 +64,8 @@ I help with tutorials on Medium with tips to make your life easier with codes:
 
 <a id="Referência"></a>
 ##  🌍 Medium Technology Blog
-> Todas as fontes
-    
-<br/>
 [Medium - Adriano](https://medium.com/@nanojau)
+<br/>
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-azure" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original.svg">
