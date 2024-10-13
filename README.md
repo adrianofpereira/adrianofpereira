@@ -25,7 +25,10 @@ platforms (Azure)
 
 • Implement CI/CD pipelines that enables automated code deploymen
 
-Top Skills:
+<a id="Top Skills"></a>
+## 🚀 Direto ao ponto 
+
+ <br/>
 Microsoft SQL Server Integration 
 Services (SSIS) (Advanced).
 • Microsoft SQL Server Analysis 
