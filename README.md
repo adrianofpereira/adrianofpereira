@@ -2,7 +2,7 @@
 
 Pessoal, além de trabalhar na área de BI e Data Engineering, também sou instrutor na Udemy, vou deixar abaixo o link dos cursos que ministro na plataforma:
 
-[Power BI do Zero ao Dashboar]([https://github.com/anuraghazra/github-readme-stats/blob/master/readme.md#deploy-on-your-own-vercel-instance](https://www.udemy.com/course/power-bi-do-zero-ao-dashboard/?referralCode=853E0BD6B568BA67A404))
+[Power BI do Zero ao Dashboard:](https://www.udemy.com/course/power-bi-do-zero-ao-dashboard/?referralCode=853E0BD6B568BA67A404)
 [Power BI Performance - Otimizando Dashboards](https://www.udemy.com/course/power-bi-performance-otimizando-dashboards/?referralCode=CAFAA0371843F327C603)
 
 <div style="display: inline_block"><br>
