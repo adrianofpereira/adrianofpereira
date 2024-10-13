@@ -35,6 +35,10 @@ Também sou instrutor na Udemy, vou deixar abaixo o link dos cursos que ministro
 
 [Power BI Performance - Otimizando Dashboards](https://www.udemy.com/course/power-bi-performance-otimizando-dashboards/?referralCode=CAFAA0371843F327C603)
 
+Ajudo com tutoriais no Medium com dicas para facilitar sua vida com códigos:
+
+[Medium - Adriano](https://medium.com/@nanojau)
+
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-azure" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original.svg">
   <img align="center" alt="Rafa-Figma" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg">
