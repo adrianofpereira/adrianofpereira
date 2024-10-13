@@ -62,6 +62,11 @@ More than 2 thousand students on the platform
 
 I help with tutorials on Medium with tips to make your life easier with codes:
 
+<a id="Referência"></a>
+##  🌍 Medium Technology Blog
+> Todas as fontes
+    
+<br/>
 [Medium - Adriano](https://medium.com/@nanojau)
 
 <div style="display: inline_block"><br>
