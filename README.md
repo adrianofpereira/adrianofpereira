@@ -2,7 +2,9 @@
 
 Pessoal, além de trabalhar na área de BI e Data Engineering, vou deixar abaixo um resumo dos meus skills.
 
-Professional Summary:
+<a id="Introdução"></a>
+## 🧩 Professional Summary: 
+<br/>
 
 • 6+ years of experience as a ETL/Data Engineering using SSAS/SQL
 
@@ -26,7 +28,7 @@ platforms (Azure)
 • Implement CI/CD pipelines that enables automated code deploymen
 
 <a id="Top Skills"></a>
-## 🚀 Direto ao ponto 
+## 🚀 Top Skills 
 
  <br/>
 Microsoft SQL Server Integration 
