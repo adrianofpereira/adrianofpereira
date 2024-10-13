@@ -1,6 +1,6 @@
 ## Hello, I'm Adriano, Business Intelligence Specialist, Welcome to my Profile!
 
-Besides working in the BI and Data Engineering area, I will leave a summary of my skills below:
+Find bellow the highlights of skills I have applied so far:
 <br/>
 <a id="Introdução"></a>
 ## 🧩 Professional Summary: 
