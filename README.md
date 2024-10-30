@@ -30,13 +30,9 @@ platforms (Azure)
 <a id="Top Skills"></a>
 ## 🚀 Top Skills 
 
-⭐ Microsoft SQL Server Integration
-
-⭐Services (SSIS) (Advanced)
+⭐ Microsoft SQL Server Integration Services (SSIS) (Advanced)
  
-⭐Microsoft SQL Server Analysis 
- 
-⭐Services (SSAS) (Advanced)
+⭐Microsoft SQL Server Analysis Services (SSAS) (Advanced)
 
 ⭐Microsoft Power BI ((Advanced)
 
