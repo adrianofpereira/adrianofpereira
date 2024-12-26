@@ -80,7 +80,7 @@ I help with tutorials on Medium with tips to make your life easier with codes:
   <img align="center" alt="Tableau" height="30" width="40" src="https://spark.apache.org/images/tableau-logo-tableau-software.png">
   <img align="center" alt="Java height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg">
   <img align="center" alt="kotlin height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/kotlin/kotlin-original.svg">
-  <img align="center" alt="kotlin height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/kotlin/adroidstudio-original.svg">
+  <img align="center" alt="kotlin height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/androidstudio/androidstudio-original.svg">
 </div>
   
   ##
